@@ -18,7 +18,7 @@ Files in this project:
 	•	project.py
 	•	cloud_jobs.csv
 
-⸻〰️〰️〰️
+----
 
 Project 2: Student Performance Analysis
 
